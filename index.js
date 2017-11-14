@@ -12,7 +12,6 @@ array.forEach(callback)
 
 // Add your changeCompletely() function here:
 function changeCompletely(array){
-array.forEach(changeCompletely(ele){
-  return ele+1;
-}
+array.forEach(changeCompletely)
+
 }
