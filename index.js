@@ -4,6 +4,6 @@ function doToElementsInArray(){
 }
 
 // Add your changeCompletely() function here:
-function changeCompetely(){
+function changeCompletely(){
 
 }
