@@ -1,12 +1,12 @@
 // Add your doToElementsInArray() function here:
-function doToElementsInArray(){
+function doToElementsInArray(array){
 array.foEach(changeCompletely(element){
 return element;
 })
 }
 
 // Add your changeCompletely() function here:
-function changeCompletely(){
+function changeCompletely(array){
 array.forEach(function(element){
   return element+element;
 })
