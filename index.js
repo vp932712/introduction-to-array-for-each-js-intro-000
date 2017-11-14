@@ -4,10 +4,10 @@
 // };
 
 
-function doToElementsInArray(array){
-array.forEach(callback (element){
-  return element
-})
+function doToElementsInArray(callback){
+array.forEach(callback)
+  
+
 }
 
 // Add your changeCompletely() function here:
