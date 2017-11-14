@@ -12,5 +12,5 @@ array.forEach(callback)
 
 // Add your changeCompletely() function here:
 function changeCompletely(array){
-
+return "hello"+array;
 }
