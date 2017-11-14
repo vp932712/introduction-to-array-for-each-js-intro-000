@@ -4,7 +4,7 @@ callback = function(fruit) {
 };
 
 
-function doToElementsInArray(array, callback){
+function doToElementsInArray(array){
 array.forEach(callback (element){
   return element
 })
