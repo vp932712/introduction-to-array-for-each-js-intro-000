@@ -1,10 +1,10 @@
 // Add your doToElementsInArray() function here:
-callback = function(fruit) {
-  return `Mmmm, ${fruit}!!!`;
-};
+// callback = function(fruit) {
+//   return `Mmmm, ${fruit}!!!`;
+// };
 
 
-function doToElementsInArray(array){
+function doToElementsInArray(array, callback){
 array.forEach(callback (element){
   return element
 })
