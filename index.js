@@ -12,8 +12,8 @@ array.forEach(callback)
 
 // Add your changeCompletely() function here:
 function changeCompletely(array){
-array.forEach(function (element){
+
   return element.split("");
-})
+
 
 }
