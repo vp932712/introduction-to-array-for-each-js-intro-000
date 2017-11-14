@@ -4,8 +4,8 @@
 // };
 
 
-function doToElementsInArray(callback){
-fruit.forEach(callback)
+function doToElementsInArray(array){
+array.forEach(callback)
 
 
 }
