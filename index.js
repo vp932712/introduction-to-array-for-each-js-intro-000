@@ -1,6 +1,6 @@
 // Add your doToElementsInArray() function here:
 function doToElementsInArray(array){
-arra.forEach(function (element){
+array.forEach(function (element){
   return "yumm"+element;
 })
 }
