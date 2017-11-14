@@ -1,7 +1,7 @@
 // Add your doToElementsInArray() function here:
 function doToElementsInArray(){
 array.foEach(changeCompletely(element){
-
+return element;
 })
 }
 
