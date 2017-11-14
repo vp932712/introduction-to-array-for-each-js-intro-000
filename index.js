@@ -1,7 +1,7 @@
 // Add your doToElementsInArray() function here:
-// callback = function(fruit) {
-//   return `Mmmm, ${fruit}!!!`;
-// };
+callback = function(fruit) {
+  return `Mmmm, ${fruit}!!!`;
+};
 
 
 function doToElementsInArray(array){
