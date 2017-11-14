@@ -5,7 +5,7 @@
 
 
 function doToElementsInArray(callback){
-array.forEach(callback)
+fruit.forEach(callback)
 
 
 }
