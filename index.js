@@ -11,6 +11,6 @@ array.forEach(callback)
 }
 
 // Add your changeCompletely() function here:
-function changeCompletely(elemnt){
+function changeCompletely(array){
 array.forEach(changeCompletely);
 }
